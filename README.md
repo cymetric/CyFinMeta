@@ -1,1 +1,2 @@
 # CyFinMeta
+Utility for Metatrader
